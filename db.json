@@ -1,0 +1,19 @@
+{
+  "users":[
+      {
+        "name":"abc",
+        "aadharno":123456781234,
+        "age":18
+      }
+      {
+        "name":"qwe",
+        "aadharno":432187654321,
+        "age":19      
+      }
+      {
+        "name":iop,
+        "aadharno":234167852341,
+        "age":21  
+      }
+  ]
+}
